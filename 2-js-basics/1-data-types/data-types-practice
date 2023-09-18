@@ -1,0 +1,7 @@
+let shoppingCart;
+let item = "itemName"; // This is the name of the item being added to the shopping cart
+let itemPrice = 1000;
+let itemQuantity = 1; // This is the quanity of the item being added to the cart
+let avilability = 0; // The number of the item available to add to the card
+
+let itemAbailable = false; //There are not enough items available to add to the cart
